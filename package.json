@@ -1,0 +1,17 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "basic example of httpserver with node js'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "http",
+    "node",
+    "js"
+  ],
+  "author": "eric phun",
+  "license": "ISC"
+}
